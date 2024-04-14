@@ -30,8 +30,6 @@ Submissões: <br>
 Obs: As duas últimas submissões são as mesmas, porém a última está com o código comentado
 
 ### #2872 - Máximo número de componentes K-divisíveis
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ### Subset Component
 
