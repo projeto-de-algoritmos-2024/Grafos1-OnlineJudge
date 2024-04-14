@@ -41,17 +41,22 @@ Obs: As duas últimas submissões são as mesmas, porém a última está com o c
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
+### Subset Component
+
+Enunciado:
+Você recebe um vetor com n inteiros de 64 bits: d[0], d[1], ..., d[n-1].
+BIT(x, i) = (x >> i) & 1, onde B(x,i) é o i-ésimo bit inferior de x na forma binária. Se considerarmos cada bit como um vértice de um grafo G, existe uma aresta não direcionada entre os vértices i e j se houver um valor k tal que BIT(d[k], i) == 1 && BIT(d[k] , j) == 1.
+Para cada subconjunto da matriz de entrada, quantos componentes conectados existem nesse grafo?
+Um componente conectado em um grafo é um conjunto de nós acessíveis entre si por meio de um caminho de arestas. Pode haver vários componentes conectados em um grafo.
+
+Link para o problema: https://www.hackerrank.com/challenges/subset-component/problem
+
+Submissões:
+![image](https://github.com/projeto-de-algoritmos-2024/Grafos1-OnlineJudge/assets/88786065/b14d2e69-83c1-40bf-863a-dc0ef8421445)
+
+
 ## Instalação 
 **Linguagem**: Python<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
 Necessário ter o python instalado
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
