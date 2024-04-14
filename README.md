@@ -24,16 +24,8 @@ Retorne o comprimento do caminho mais curto que visita cada nó . Você pode ini
 
 Link para enunciado completo com exemplos: https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/
 
-Resolução:
-![Leetcode_847]("Grafos1-OnlineJudge\imagens\codigo_comentado_847.png")
-
-Accepted:
-![Accepted_847]("Grafos1-OnlineJudge\imagens\accepted_847.png")
-
-Submissões:
-![Sub_847]("Grafos1-OnlineJudge\imagens\codigo_accepted_847.png")
-
-![Subs_847]("Grafos1-OnlineJudge\imagens\submissoes_847.png")
+Submissões: <br>
+![image](https://github.com/projeto-de-algoritmos-2024/Grafos1-OnlineJudge/assets/88786065/6cc34628-307e-4d6c-9e84-663c8fe5220d)
 
 Obs: As duas últimas submissões são as mesmas, porém a última está com o código comentado
 
