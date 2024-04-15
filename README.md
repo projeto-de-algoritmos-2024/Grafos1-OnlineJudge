@@ -48,6 +48,7 @@ Retorne o número máximo de componentes em qualquer divisão válida.
 
 Submissões: <br>
 ![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-OnlineJudge/main/imagens/submissoes_2872.png)
+
 Obs: As duas últimas submissões são as mesmas, porém a última está com o código comentado
 
 ### Subset Component
