@@ -14,7 +14,7 @@ Neste repositório se encontra questões resolvidas dos juízes online "Leetcode
 
 ## Questões
 
-### [#847 - Shortest path visiting all nodes](https://github.com/projeto-de-algoritmos-2024/Grafos1-OnlineJudge/tree/main/Questão%201%20%20-%20Shortest%20Path%20Visiting%20All%20Nodes)
+### [#847 - Shortest path visiting all nodes](https://github.com/projeto-de-algoritmos-2024/Grafos1-OnlineJudge/tree/main/Quest%C3%A3o%201%20-%20Shortest%20Path%20Visiting%20All%20Nodes)
 **Dificuldade:** Difícil
 
 Submissões: <br>
