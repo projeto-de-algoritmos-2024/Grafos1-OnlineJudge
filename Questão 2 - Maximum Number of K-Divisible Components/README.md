@@ -15,6 +15,6 @@ A valid split of the tree is obtained by removing any set of edges, possibly emp
 Return the maximum number of components in any valid split.
 
 Submissões: <br>
-![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-OnlineJudge/main/imagens/submissoes_2872.png)
+![image](https://raw.githubusercontent.com/JoaoBarreto03/Vazio/main/Captura%20de%20tela%202024-04-15%20142753.png?token=GHSAT0AAAAAACQPWL5U5MBF7ZTT4RWIUP34ZQ5ZO6Q)
 
 Obs: As duas últimas submissões são as mesmas, porém a última está com o código comentado
