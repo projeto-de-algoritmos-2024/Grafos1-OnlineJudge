@@ -32,6 +32,25 @@ Obs: As duas últimas submissões são as mesmas, porém a última está com o c
 
 ### #2872 - Máximo número de componentes K-divisíveis
 
+Dificuldade: Difícil
+
+[Link para o enunciado completo](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/)
+
+Enunciado:
+
+Existe uma árvore não direcionada com n nós rotulados de 0 até n - 1. Você recebe o número inteiro n e uma matriz de números inteiros 2D arestas de comprimento n - 1, onde indica que há uma aresta entre os nós e na árvore.arestas[i] = [a_i, b_i]a_ib_i
+
+Você também recebe uma matriz inteira indexada em 0 e valores de tamanho n, onde valores[i] é o valor associado ao nó, e um inteiro iésimo k.
+
+Uma divisão válida da árvore é obtida removendo qualquer conjunto de arestas, possivelmente vazio, da árvore, de modo que todos os componentes resultantes tenham valores divisíveis por k, onde o valor de um componente conectado é a soma dos valores de seus nós. .
+
+Retorne o número máximo de componentes em qualquer divisão válida.
+
+Submissões: <br>
+![image](https://github.com/projeto-de-algoritmos-2024/Grafos1-OnlineJudge/assets/88786065/6cc34628-307e-4d6c-9e84-663c8fe5220d)
+
+Obs: As duas últimas submissões são as mesmas, porém a última está com o código comentado
+
 ### Subset Component
 
 Dificuldade: Difícil
