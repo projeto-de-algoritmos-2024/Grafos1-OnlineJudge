@@ -47,8 +47,7 @@ Uma divisão válida da árvore é obtida removendo qualquer conjunto de arestas
 Retorne o número máximo de componentes em qualquer divisão válida.
 
 Submissões: <br>
-![image](https://github.com/projeto-de-algoritmos-2024/Grafos1-OnlineJudge/assets/88786065/6cc34628-307e-4d6c-9e84-663c8fe5220d)
-
+![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-OnlineJudge/main/imagens/submissoes_2872.png)
 Obs: As duas últimas submissões são as mesmas, porém a última está com o código comentado
 
 ### Subset Component
