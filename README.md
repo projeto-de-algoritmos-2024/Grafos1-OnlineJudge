@@ -25,7 +25,7 @@ Submissões: <br>
 **Dificuldade:** Difícil
 
 Submissões: <br>
-![image](https://raw.githubusercontent.com/JoaoBarreto03/Vazio/main/Captura%20de%20tela%202024-04-15%20142753.png?token=GHSAT0AAAAAACQPWL5U5MBF7ZTT4RWIUP34ZQ5ZO6Q)
+![Submissao_2872](https://github.com/projeto-de-algoritmos-2024/Grafos1-OnlineJudge/assets/108282056/7acdc7cc-24f6-451a-a0dc-061b8247cc31)
 
 ### [Subset Component](https://github.com/projeto-de-algoritmos-2024/Grafos1-OnlineJudge/tree/main/Questão%203%20-%20Subset%20component)
 
